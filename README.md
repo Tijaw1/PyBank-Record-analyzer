@@ -1,6 +1,4 @@
-# python-homework
-
-## PyBank Record analyzer
+# PyBank Record analyzer
 
 This Python script is a tool for analyzing the financial records of PyBank. The input dataset is composed of two columns, Date and Profit/Losses. The tool analyzes the records to calculate the following and produces a concise output of the calculated parameters in text file format:
 
